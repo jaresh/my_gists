@@ -26,12 +26,6 @@ describe GistsController, "#create" do
         post :create, params: { title: "Article title" }
       end.not_to change(Article, :count)
     end
-
-    it "renders new template" do
-      post :create, params: { title: "Article title" }
-      expect(response).to render_template "new"
-    end
-
   end
 
 end
