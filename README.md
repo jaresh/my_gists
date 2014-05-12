@@ -1,5 +1,7 @@
 ## My Gists - kontynuacja projektu.
 
+[![Build Status](https://travis-ci.org/jaresh/my_giststest.svg?branch=master)](https://travis-ci.org/jaresh/my_giststest)
+
 Nazwa zespołu: *None*
 
 Członkowie:
